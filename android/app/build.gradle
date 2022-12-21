@@ -249,7 +249,7 @@ android {
 }
 
 dependencies {
-    implementation 'io.github.clickonometrics.android:clickonometrics:1.0'
+    implementation 'io.github.clickonometrics.android:clickonometrics:1.+'
     implementation fileTree(dir: "libs", include: ["*.jar"])
 
     //noinspection GradleDynamicVersion
